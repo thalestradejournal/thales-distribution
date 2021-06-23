@@ -3,6 +3,12 @@
     "description": "The Drupal based Options Trading Journal.",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
     "extra": {
         "installer-name": "thales"
     }

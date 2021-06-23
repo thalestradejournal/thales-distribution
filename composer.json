@@ -1,0 +1,9 @@
+{
+    "name": "thalestradejournal/thales-distribution",
+    "description": "The Drupal based Options Trading Journal.",
+    "type": "drupal-profile",
+    "license": "GPL-2.0-or-later",
+    "extra": {
+        "installer-name": "thales"
+    }
+}

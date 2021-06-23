@@ -9,6 +9,9 @@
             "url": "https://packages.drupal.org/8"
         }
     ],
+    "require": {
+        "drupal/admin_toolbar": "^3.0"
+    },
     "extra": {
         "installer-name": "thales"
     }

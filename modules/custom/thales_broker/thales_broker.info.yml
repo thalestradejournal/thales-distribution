@@ -1,0 +1,5 @@
+name: 'Thales Broker'
+type: module
+description: 'Defines the Broker entity and associated features.'
+core_version_requirement: ^9.2.0
+package: 'thales'
